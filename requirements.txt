@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langsmith
+langchain-community
+langchain-google-genai
+sentence-transformers
+chromadb
